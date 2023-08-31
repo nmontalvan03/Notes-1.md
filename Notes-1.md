@@ -15,7 +15,7 @@ Management and governance  and more.
 3. Cloud Services
 4. Bandwidth for Video.
    
-#One that I found interesting in IT was:
+# One that I found interesting in IT was:
 Hardware and software because this is important in cloud computing since without them nothin 
 could be done and the system would not work correctly and there would be no security since the hardware make the cloud computing 
 infrastructure like servers, processors and memory among other system that make up the hardware that include all the physical aspect system
